@@ -30,3 +30,7 @@ body {
     margin: 1rem;
 }
 
+.p-pseudoclases:hover {
+    font-size: 20px;
+}
+
