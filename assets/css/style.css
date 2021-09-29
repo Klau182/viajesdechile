@@ -1,3 +1,16 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    font-family: 'Merienda', cursive;
+}
+
+.nav-item{
+    font-size: 19px;
+}
+
 .nav-img {
     width: 30px;
     height: 30px;
