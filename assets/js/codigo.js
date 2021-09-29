@@ -4,7 +4,15 @@ $(document).ready(function() {
         $("h2").addClass("bg-warning");
     });
 
-    
+       
+    $( ".fas" ).click(function() {
+        $( ".parrafito" ).toggle(function() {
+        });
+    });
+
+
+
+
 
 })
 
