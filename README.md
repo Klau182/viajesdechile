@@ -46,3 +46,15 @@ $( ".fas" ).click(function() {
     $( ".parrafito" ).toggle(function() {
    });
  ```
+
+ Aqui se muestran las 4 tarjetas de manera normal
+
+ ![imagen](/assets/img/sintaggle.jpg)
+
+ y a continuacion al pinchar las tarjetas quedan asi
+
+ ![imagen](/assets/img/contoggle.jpg)
+
+ Finalmente te encontraras con un formulario de contacto donde podras darnos tu opinion dejandonos tu nombre y correo electronico.
+
+ ![imagen](/assets/img/formulario.jpg)
