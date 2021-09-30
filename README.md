@@ -1,4 +1,4 @@
-#Viajes Chile
+# Viajes Chile
 
 > Viajes Chile es un Landing page diseñado para mostrar algunos algunos lugares de Chile, donde podras realizar entretenidas salidas y conocer lugares maravillosos en las distintas modalidades de Tour que existen.
 Para el diseño de esta pagina se emplearon distintas herramientas tecnologicas que nombraremos a continuacion:
