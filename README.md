@@ -62,4 +62,7 @@ $( ".fas" ).click(function() {
  ### Visite nuestra página.
 
  [Viajes Chile](https://viajeschile.netlify.app/)
+ [Viajes Chile GitHub pages](https://klau182.github.io/viajesdechile/)
+
+ 
   
